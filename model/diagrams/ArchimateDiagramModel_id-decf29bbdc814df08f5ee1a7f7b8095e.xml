@@ -636,10 +636,20 @@
         source="id-4dc7456dbb2047af98a085dfbe2d985c"
         target="id-771445b2558c455980050c947a16abe0">
       <bendpoints
+          startX="-324"
+          startY="-21"
+          endX="418"
+          endY="-164"/>
+      <bendpoints
+          startX="-468"
+          startY="-21"
+          endX="274"
+          endY="-164"/>
+      <bendpoints
           startX="-552"
           startY="-21"
-          endX="34"
-          endY="-152"/>
+          endX="190"
+          endY="-164"/>
       <bendpoints
           startX="-732"
           startY="-21"
